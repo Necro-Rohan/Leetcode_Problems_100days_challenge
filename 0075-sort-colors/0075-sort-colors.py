@@ -1,12 +1,17 @@
 class Solution:
     def sortColors(self, nums: List[int]) -> None:
-       for i in range(len(nums)):
-        swapped = False
-        for j in range(len(nums)-i-1):
-            if nums[j] > nums[j+1]:
-                nums[j], nums[j+1] = nums[j+1], nums[j]
-                swapped = True
-        if not swapped:
-            break
-    
-        
+        low = 0
+        n = len(nums)
+        for i in range(n):
+            if nums[i] == 0:
+                nums[i], nums[low] = nums[low], nums[i]
+                low+=1
+        for i in range(low, n):
+            if nums[i] == 1:
+                nums[i], nums[low] = nums[low], nums[i]
+                low+=1
+        for i in range(low, n):
+            if nums[i] == 2:
+                nums[i], nums[low] = nums[low], nums[i]
+                low+=1
+        return nums
