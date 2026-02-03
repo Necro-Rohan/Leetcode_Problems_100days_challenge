@@ -1,29 +1,34 @@
+import random
+
 class RandomizedSet:
 
     def __init__(self):
-        self.new_set = set()
+        self.values = []        
+        self.indices = {}       
         
     def insert(self, val: int) -> bool:
-        first_len = len(self.new_set)
-        self.new_set.add(val)
-        second_len = len(self.new_set)
-        if second_len == first_len:
+        if val in self.indices:
             return False
-        else:
-            return True
         
+        self.values.append(val)
+        self.indices[val] = len(self.values) - 1
+        return True
+
     def remove(self, val: int) -> bool:
-        first_len = len(self.new_set)
-        self.new_set.discard(val)
-        second_len = len(self.new_set)
-        if second_len == first_len:
+        if val not in self.indices:
             return False
-        else:
-            return True
         
+        last_val = self.values[-1]
+        idx = self.indices[val]
+        self.values[idx] = last_val
+        self.indices[last_val] = idx
+        
+        self.values.pop()
+        del self.indices[val]
+        return True
+
     def getRandom(self) -> int:
-        import random
-        return random.choice(list(self.new_set))
+        return random.choice(self.values)
         
 
 
