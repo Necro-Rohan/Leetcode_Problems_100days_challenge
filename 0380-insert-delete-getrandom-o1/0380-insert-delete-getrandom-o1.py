@@ -3,32 +3,39 @@ import random
 class RandomizedSet:
 
     def __init__(self):
-        self.values = []        
-        self.indices = {}       
-        
-    def insert(self, val: int) -> bool:
-        if val in self.indices:
+        self.arr = []
+        self.dictionary = {}
+
+    def insert(self, val):
+        if(val in self.dictionary):
             return False
         
-        self.values.append(val)
-        self.indices[val] = len(self.values) - 1
+        self.arr.append(val)
+        self.dictionary[val] = len(self.arr) - 1
         return True
+    
 
-    def remove(self, val: int) -> bool:
-        if val not in self.indices:
+    def remove(self, val):
+        if(val not in self.dictionary):
             return False
         
-        last_val = self.values[-1]
-        idx = self.indices[val]
-        self.values[idx] = last_val
-        self.indices[last_val] = idx
-        
-        self.values.pop()
-        del self.indices[val]
+        idx = self.dictionary[val]
+        last_ele = self.arr[-1]
+
+        self.arr[idx] = last_ele
+        self.dictionary[last_ele] = idx
+
+        self.arr.pop()
+        del self.dictionary[val]
         return True
 
-    def getRandom(self) -> int:
-        return random.choice(self.values)
+    def search(self, val):
+        if self.dictionary[val]:
+            return True
+        return False
+    
+    def getRandom(self):
+        return random.choice(self.arr)
         
 
 
