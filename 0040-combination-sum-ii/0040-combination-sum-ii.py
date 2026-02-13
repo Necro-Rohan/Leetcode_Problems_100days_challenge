@@ -7,16 +7,16 @@ class Solution:
                 res.append(cur_arr[:])
                 return 
             
-            if idx >= len(candidates) or target < 0:
-                return 
-            
-            cur_arr.append(candidates[idx])
-            backtrack(idx+1, target - candidates[idx], cur_arr)
-            cur_arr.pop()
+            for i in range(idx, len(candidates)):
+                if candidates[i] > target:
+                    break
 
-            next_idx = idx + 1
-            while next_idx < len(candidates) and candidates[next_idx] == candidates[idx]:
-                next_idx += 1
-            backtrack(next_idx, target, cur_arr)
+                if i > idx and candidates[i] == candidates[i-1]:
+                    continue  
+
+                cur_arr.append(candidates[i])
+                backtrack(i+1, target - candidates[i], cur_arr)
+                cur_arr.pop()
+
         backtrack(0, target, [])
         return res
