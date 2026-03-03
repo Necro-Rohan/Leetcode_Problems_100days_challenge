@@ -7,16 +7,20 @@ Hello, This is a repo full of leetcode problems for beginners with optimized and
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0100-same-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0100-same-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0100-same-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0100-same-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
