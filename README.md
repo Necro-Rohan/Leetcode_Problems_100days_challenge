@@ -35,4 +35,16 @@ Hello, This is a repo full of leetcode problems for beginners with optimized and
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0002-add-two-numbers/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
