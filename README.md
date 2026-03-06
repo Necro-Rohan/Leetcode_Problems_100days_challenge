@@ -39,6 +39,7 @@ Hello, This is a repo full of leetcode problems for beginners with optimized and
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0002-add-two-numbers/) | Medium |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
