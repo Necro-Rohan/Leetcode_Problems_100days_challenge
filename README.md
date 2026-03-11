@@ -70,4 +70,8 @@ Hello, This is a repo full of leetcode problems for beginners with optimized and
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0196-delete-duplicate-emails](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0196-delete-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
