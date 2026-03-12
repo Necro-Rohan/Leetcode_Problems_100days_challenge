@@ -74,4 +74,5 @@ Hello, This is a repo full of leetcode problems for beginners with optimized and
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0196-delete-duplicate-emails](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0196-delete-duplicate-emails/) | Easy |
+| [0197-rising-temperature](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0197-rising-temperature/) | Easy |
 <!---LeetCode Topics End-->
