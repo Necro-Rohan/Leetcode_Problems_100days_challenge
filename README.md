@@ -61,6 +61,7 @@ Hello, This is a repo full of leetcode problems for beginners with optimized and
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0048-rotate-image/) | Medium |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
