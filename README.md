@@ -84,4 +84,5 @@ Hello, This is a repo full of leetcode problems for beginners with optimized and
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0709-to-lower-case](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0709-to-lower-case/) | Easy |
+| [3019-number-of-changing-keys](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/3019-number-of-changing-keys/) | Easy |
 <!---LeetCode Topics End-->
