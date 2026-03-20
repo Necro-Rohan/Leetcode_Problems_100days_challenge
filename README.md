@@ -42,6 +42,7 @@ Hello, This is a repo full of leetcode problems for beginners with optimized and
 | [0048-rotate-image](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [2942-find-words-containing-character](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/2942-find-words-containing-character/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,5 +85,6 @@ Hello, This is a repo full of leetcode problems for beginners with optimized and
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0709-to-lower-case](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0709-to-lower-case/) | Easy |
+| [2942-find-words-containing-character](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/2942-find-words-containing-character/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/3019-number-of-changing-keys/) | Easy |
 <!---LeetCode Topics End-->
