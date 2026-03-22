@@ -62,6 +62,7 @@ Hello, This is a repo full of leetcode problems for beginners with optimized and
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0048-rotate-image/) | Medium |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 ## Recursion
