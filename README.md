@@ -44,6 +44,7 @@ Hello, This is a repo full of leetcode problems for beginners with optimized and
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/2942-find-words-containing-character/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -66,6 +67,7 @@ Hello, This is a repo full of leetcode problems for beginners with optimized and
 | [0002-add-two-numbers](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0048-rotate-image/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 ## Recursion
