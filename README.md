@@ -92,6 +92,7 @@ Hello, This is a repo full of leetcode problems for beginners with optimized and
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0709-to-lower-case/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/2942-find-words-containing-character/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/3019-number-of-changing-keys/) | Easy |
@@ -102,5 +103,6 @@ Hello, This is a repo full of leetcode problems for beginners with optimized and
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0682-baseball-game/) | Easy |
 <!---LeetCode Topics End-->
