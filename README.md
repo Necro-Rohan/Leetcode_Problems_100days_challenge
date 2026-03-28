@@ -47,6 +47,7 @@ Hello, This is a repo full of leetcode problems for beginners with optimized and
 | [1672-richest-customer-wealth](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/2942-find-words-containing-character/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +72,7 @@ Hello, This is a repo full of leetcode problems for beginners with optimized and
 | [1822-sign-of-the-product-of-an-array](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
