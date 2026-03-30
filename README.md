@@ -97,6 +97,7 @@ Hello, This is a repo full of leetcode problems for beginners with optimized and
 | [0657-robot-return-to-origin](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0709-to-lower-case/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2942-find-words-containing-character](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/2942-find-words-containing-character/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/3019-number-of-changing-keys/) | Easy |
 ## Stack
@@ -108,4 +109,12 @@ Hello, This is a repo full of leetcode problems for beginners with optimized and
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0682-baseball-game/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 <!---LeetCode Topics End-->
