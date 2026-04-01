@@ -39,6 +39,7 @@ Hello, This is a repo full of leetcode problems for beginners with optimized and
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -51,6 +52,7 @@ Hello, This is a repo full of leetcode problems for beginners with optimized and
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
