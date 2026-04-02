@@ -13,7 +13,6 @@ class Solution:
                     current += str(count) + result[i - 1]
                     count = 1
             
-            # add last group
             current += str(count) + result[-1]
             result = current
         
