@@ -41,6 +41,7 @@ Hello, This is a repo full of leetcode problems for beginners with optimized and
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0048-rotate-image/) | Medium |
+| [0056-merge-intervals](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0056-merge-intervals/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0682-baseball-game](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0682-baseball-game/) | Easy |
@@ -120,6 +121,7 @@ Hello, This is a repo full of leetcode problems for beginners with optimized and
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0056-merge-intervals/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
