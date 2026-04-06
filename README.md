@@ -46,6 +46,7 @@ Hello, This is a repo full of leetcode problems for beginners with optimized and
 | [0074-search-a-2d-matrix](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0682-baseball-game](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0682-baseball-game/) | Easy |
+| [0874-walking-robot-simulation](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1550-three-consecutive-odds](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
@@ -115,9 +116,11 @@ Hello, This is a repo full of leetcode problems for beginners with optimized and
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0682-baseball-game/) | Easy |
+| [0874-walking-robot-simulation](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0874-walking-robot-simulation/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0874-walking-robot-simulation](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
