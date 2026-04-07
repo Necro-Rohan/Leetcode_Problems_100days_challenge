@@ -96,6 +96,7 @@ Hello, This is a repo full of leetcode problems for beginners with optimized and
 | [0196-delete-duplicate-emails](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0197-rising-temperature/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0511-game-play-analysis-i/) | Easy |
+| [0577-employee-bonus](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0577-employee-bonus/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
