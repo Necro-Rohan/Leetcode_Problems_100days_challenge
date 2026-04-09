@@ -103,6 +103,7 @@ Hello, This is a repo full of leetcode problems for beginners with optimized and
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0038-count-and-say](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0038-count-and-say/) | Medium |
+| [0091-decode-ways](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0091-decode-ways/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0709-to-lower-case/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
@@ -133,6 +134,7 @@ Hello, This is a repo full of leetcode problems for beginners with optimized and
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0022-generate-parentheses/) | Medium |
+| [0091-decode-ways](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0091-decode-ways/) | Medium |
 | [0118-pascals-triangle](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0118-pascals-triangle/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
