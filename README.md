@@ -46,6 +46,7 @@ Hello, This is a repo full of leetcode problems for beginners with optimized and
 | [0074-search-a-2d-matrix](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0118-pascals-triangle/) | Easy |
+| [0136-single-number](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0136-single-number/) | Easy |
 | [0682-baseball-game](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0682-baseball-game/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1550-three-consecutive-odds](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/1550-three-consecutive-odds/) | Easy |
@@ -140,4 +141,8 @@ Hello, This is a repo full of leetcode problems for beginners with optimized and
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0022-generate-parentheses/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
