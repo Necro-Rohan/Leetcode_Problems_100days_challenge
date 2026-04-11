@@ -75,6 +75,7 @@ Hello, This is a repo full of leetcode problems for beginners with optimized and
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0048-rotate-image/) | Medium |
+| [0168-excel-sheet-column-title](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
@@ -105,6 +106,7 @@ Hello, This is a repo full of leetcode problems for beginners with optimized and
 | [0022-generate-parentheses](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0038-count-and-say](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0038-count-and-say/) | Medium |
 | [0091-decode-ways](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0091-decode-ways/) | Medium |
+| [0168-excel-sheet-column-title](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0709-to-lower-case/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
