@@ -76,6 +76,7 @@ Hello, This is a repo full of leetcode problems for beginners with optimized and
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0002-add-two-numbers/) | Medium |
+| [0009-palindrome-number](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0048-rotate-image/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
