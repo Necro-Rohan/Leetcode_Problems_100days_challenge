@@ -53,6 +53,7 @@ Hello, This is a repo full of leetcode problems for beginners with optimized and
 | [1672-richest-customer-wealth](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/2942-find-words-containing-character/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 ## Binary Search
@@ -113,6 +114,7 @@ Hello, This is a repo full of leetcode problems for beginners with optimized and
 | [0168-excel-sheet-column-title](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/0709-to-lower-case/) | Easy |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2942-find-words-containing-character](https://github.com/Hungry-devourer/Leetcode_Problems/tree/main/2942-find-words-containing-character/) | Easy |
